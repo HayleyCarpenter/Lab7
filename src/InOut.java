@@ -1,5 +1,8 @@
 public interface InOut
 {
-   String nextLine(String prompt);
-   void message(String text);
+	/**
+	 * Interface for accepting user text then displaying it.
+	 */
+	String nextLine(String prompt);
+	void message(String text);
 }
