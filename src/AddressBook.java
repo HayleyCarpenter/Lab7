@@ -1,5 +1,7 @@
 import java.util.Iterator;
-
+/**
+ * @author Hayley Carpenter
+ */
 public interface AddressBook {
 
    /** 
